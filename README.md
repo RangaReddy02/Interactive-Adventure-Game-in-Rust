@@ -22,27 +22,8 @@ A system with at least 4GB of RAM and a modern CPU.
 
 Windows, macOS, or Linux operating system.
 
-Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/hero-vs-spirits.git
-
-Navigate to the project directory:
-
-cd hero-vs-spirits
-
-Build the project:
-
-cargo build --release
-
-Run the game:
-
-cargo run
-
-Gameplay
-
-Controls
+Gameplay Controls
 
 Left: Left Arrow
 Right: Right Arrow
