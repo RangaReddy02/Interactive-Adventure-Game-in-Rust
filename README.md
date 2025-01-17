@@ -1,2 +1,54 @@
-The Interac(ve Adventure Game is a simple interac/ve game where players can navigate through different rooms, collect items, and interact with their environment through text commands. It is a terminal-based game that focuses on crea/ng a seamless player experience with minimal input, mimicking the old- school adventure games where imagina/on drives the gameplay.
-In this project, the player starts in a room and can explore adjacent rooms using direc/onal commands like “move north” or “move east.” Each room contains a descrip/on of the environment and may also include items that the player can pick up and add to their inventory. The player's goal is to explore the environment, gather objects, and experience the Interac/ve world.# Interactive-Adventure-Game-in-Rust
+Introduction
+
+Welcome to Adventure Game in Rust, an action-packed game built in Rust where you play as a valiant hero battling malicious spirits to restore peace to the world. With stunning visuals, immersive background music, and sound effects, this game provides an engaging experience.
+
+Features
+
+Hero Mechanics: Control a hero with special abilities to fight and defeat spirits.
+
+Spirits: A variety of spirits, each with unique behaviors and attacks.
+
+Sound Effects: Realistic sounds for attacks, movements, and spirit interactions.
+
+Background Music: Dynamic music that adapts to the intensity of the gameplay.
+
+Prerequisites
+
+To run the game, you need:
+
+Rust (latest version) installed. Install Rust here
+
+A system with at least 4GB of RAM and a modern CPU.
+
+Windows, macOS, or Linux operating system.
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/hero-vs-spirits.git
+
+Navigate to the project directory:
+
+cd hero-vs-spirits
+
+Build the project:
+
+cargo build --release
+
+Run the game:
+
+cargo run
+
+Gameplay
+
+Controls
+
+Left: Left Arrow
+Right: Right Arrow
+Jump: Space
+Attack Mode 1: C
+Attack Mode 2: V
+Dash: Direction + V
+
+Use your last breath to destroy as many of the ghosts as possible.
