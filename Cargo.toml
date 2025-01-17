@@ -1,0 +1,10 @@
+[package]
+version = "0.1.0"
+edition = "2021"
+name = "naga-sai-ranga-reddy"
+
+
+
+[dependencies]
+
+macroquad="0.3"
